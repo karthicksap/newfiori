@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <script src="https://sapui5.hana.ondemand.com/resources/sap-ui-core.js"
+            data-sap-ui-libs ="sap.m"
+            data-sap-ui-bindingSyntax="complex"
+            data-sap-ui-theme ="sap_fiori_3_dark"
+            data-sap-ui-resourceroots = '{
+             
+            "emc.fin.ar" : "./" 
+
+            }'
+
+    ></script>
+
+    <script>
+
+        var oCompContainer = new sap.ui.core.ComponentContainer({
+
+            name: "emc.fin.ar"
+
+        });
+
+        oCompContainer.placeAt("idXML");
+
+    </script>
+
+</head>
+
+<body class="sapUiBody">
+
+    <div id="idXML"></div>
+
+</body>
+
+</html>

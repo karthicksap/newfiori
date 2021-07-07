@@ -1,0 +1,10 @@
+<mvc:View   xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" 
+            controllerName="emc.fin.ar.controller.View3" >
+
+    <Page title="View 3"> 
+
+     <Image src="https://wallpapercave.com/wp/b10GKXf.jpg" width="100%" height="100%" />
+
+    </Page>
+
+</mvc:View>

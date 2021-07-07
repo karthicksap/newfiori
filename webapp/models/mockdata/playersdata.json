@@ -1,0 +1,390 @@
+{
+    "keyPlayers": [
+        {
+            "team": "RCB",
+            "name": "Virat Kohli",
+            "icon": "https://i.cdn.newsbytesapp.com/images/l48420210307184933.png",
+            "price": "170000000",
+            "role": "Batsman",
+            "curreny": "INR",
+            "country": "India",
+            "available": "Available"
+        },
+        {
+            "team": "RCB",
+            "name": "Mohammed Siraj",
+            "icon": "https://staticg.sportskeeda.com/editor/2021/04/4201d-16178582077078-800.jpg",
+            "price": "26000000",
+            "role": "Bowler",
+            "curreny": "INR",
+            "country": "India",
+            "available": "Not available"
+        },
+        {
+            "team": "RCB",
+            "name": "Glenn Maxwell",
+            "icon": "https://imagevars.gulfnews.com/2021/04/15/Glenn-Maxwell-of-Royal-Challengers-Bangalore-raises-his-bat-after-scoring-a-fifty-against-Sunrisers-Hyderabad_178d5469110_medium.jpg",
+            "price": "142500000",
+            "role": "All Rounder",
+            "curreny": "INR",
+            "country": "Forgin",
+            "available": "Discontinued"
+        },
+        {
+            "team": "MI",
+            "name": "Rohit Sharma",
+            "icon": "https://i.pinimg.com/originals/f2/fa/3b/f2fa3b15f9d86f43fefd69f20255e5f9.png",
+            "price": "150000000",
+            "role": "Batsman",
+            "curreny": "INR",
+            "country": "India",
+            "available": "Not available"
+        },
+        {
+            "team": "MI",
+            "name": "Jasprit Bumrah",
+            "icon": "https://images.indianexpress.com/2020/10/bumrah-1.jpg",
+            "price": "70000000",
+            "role": "Bowler",
+            "curreny": "INR",
+            "country": "India",
+            "available": "Available"
+        },
+        {
+            "team": "MI",
+            "name": "Kieron Pollard",
+            "icon": "http://moneyball.insidesport.co/img/singleplayer/KieronPollard1.jpg",
+            "price": "54000000",
+            "role": "All Rounders",
+            "curreny": "INR",
+            "country": "India",
+            "available": "Discontinued"
+        },
+        {
+            "team": "CSK",
+            "name": "MS Dhoni",
+            "icon": "https://images.indianexpress.com/2020/10/148841-clraytzonv-1602133322.jpg",
+            "price": "150000000",
+            "role": "Batsman",
+            "curreny": "INR",
+            "country": "India",
+            "available": "Not available"
+        },
+        {
+            "team": "CSK",
+            "name": "Mitchell Santner",
+            "icon": "https://www.insidesport.co/wp-content/uploads/2020/07/1-2020-07-20T141354.026.jpg",
+            "price": "5000000",
+            "role": "Bowler",
+            "curreny": "INR",
+            "country": "Foreign",
+            "available": "Available"
+        },
+        {
+            "team": "CSK",
+            "name": "Sam Curran",
+            "icon": "https://www.thestatesman.com/wp-content/uploads/2020/10/EkONgMrU8AA2Ox7.jpeg",
+            "price": "55000000",
+            "role": "All Rounder",
+            "curreny": "INR",
+            "country": "Foreign",
+            "available": "Discontinued"
+        },
+        {
+            "team": "DELHI",
+            "name": "Tom Curran",
+            "icon": "https://p.imgci.com/db/PICTURES/CMS/319400/319485.4.jpg",
+            "price": "52500000",
+            "role": "All Rounder",
+            "curreny": "INR",
+            "country": "Foreign",
+            "available": "Not available"
+        },
+        {
+            "team": "DELHI",
+            "name": "Kagiso Rabada",
+            "icon": "https://static.india.com/wp-content/uploads/2020/06/Kagiso-Rabada-of-Delhi-Capitals-in-action-during-IPL%C2%A9BCCI.jpg",
+            "price": "42000000",
+            "role": "Bowler",
+            "curreny": "INR",
+            "country": "Foreign",
+            "available": "Available"
+        },
+        {
+            "team": "DELHI",
+            "name": "Shikhar Dhawan",
+            "icon": "https://static.toiimg.com/thumb/msid-78826982,width-1200,height-900,resizemode-4/.jpg",
+            "price": "52000000",
+            "role": "Batsman",
+            "curreny": "INR",
+            "country": "India",
+            "available": "Discontinued"
+        }
+    ],
+    "states": [
+        {
+            "name": "Tamil Nadu",
+            "famousFor": "Marina Beach",
+            "nickName": "The Detroit of India",
+            "type": "tier1"
+        },
+        {
+            "name": "Uttar Pradesh",
+            "famousFor": "Bollywood",
+            "nickName": "rating of Seven Island",
+            "type": "tier3"
+        },
+        {
+            "name": "Maharastra",
+            "famousFor": "Indian Museum",
+            "nickName": "Cultural Capital of India",
+            "type": "tier1"
+        },
+        {
+            "name": "Gujarat",
+            "famousFor": "Garden rating of India",
+            "nickName": "The Detroit of India",
+            "type": "tier2"
+        },
+        {
+            "name": "Karnataka",
+            "famousFor": "rating Of Nawabs",
+            "nickName": "The Detroit of India",
+            "type": "tier3"
+        },
+        {
+            "name": "Kerala",
+            "famousFor": "Parliment",
+            "nickName": "rating of Rallies",
+            "type": "tier1"
+        },
+        {
+            "name": "Delhi",
+            "famousFor": "Textiles",
+            "nickName": "rating of Lakes",
+            "type": "tier2"
+        },
+        {
+            "name": "Rajasthan",
+            "famousFor": "The Food",
+            "nickName": "Land of five rivers",
+            "type": "tier3"
+        }
+    ],
+    "cars": [
+        {
+            "name": "Creta",
+            "price": "11,58,0000.00",
+            "since": "2015",
+            "rating": "4.5",
+            "icon": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Hyundai/Creta/6775/1584360708758/front-left-side-47.jpg"
+        },
+        {
+            "name": "Venue",
+            "price": "8,06,000.00",
+            "since": "2019",
+            "rating": "4.5",
+            "icon": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Hyundai/Creta/6775/1584360708758/front-left-side-47.jpg"
+        },
+        {
+            "name": "i20",
+            "price": "7,98,000.00",
+            "since": "2008",
+            "rating": "3.4",
+            "icon": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Hyundai/i20/6986/1604567349336/front-left-side-47.jpg"
+        },
+        {
+            "name": "Grand i10 Nios",
+            "price": "6,14,000.00",
+            "since": "2013",
+            "rating": "4.5",
+            "icon": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Hyundai/Grand-i10-Nios/7091/Hyundai-Grand-i10-Nios-Sportz/1583742828294/front-left-side-47.jpg"
+        },
+        {
+            "name": "Verna",
+            "price": "10,67,000.00",
+            "since": "2006",
+            "rating": "4.7",
+            "icon": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Hyundai/Verna/7729/1616055133475/front-left-side-47.jpg"
+        },
+        {
+            "name": "Aura",
+            "price": "6,98,000.00",
+            "since": "2021",
+            "rating": "4.6",
+            "icon": "https://imgd.aeplcdn.com/0x0/n/cw/ec/41652/aura-exterior-right-front-three-quarter-53.jpeg"
+        },
+        {
+            "name": "Kona Electric",
+            "price": "23,79,000.00",
+            "since": "2022",
+            "rating": "4.5",
+            "icon": "https://imgd.aeplcdn.com/0x0/cw/ec/29580/Hyundai-Kona-Electric-Right-Front-Three-Quarter-162185.jpg?wm=0"
+        }
+    ],
+    "selectedItems": [],
+    "cities": [
+
+        {
+            "state": "Tamil Nadu",
+            "city":  "Chennai"
+
+        },
+        {
+            "state": "Tamil Nadu",
+            "city":  "Madurai"
+
+        },
+        {
+            "state": "Tamil Nadu",
+            "city":  "Coimbatore"
+
+        },
+        {
+            "state": "Tamil Nadu",
+            "city":  "Thanjavur"
+
+        },
+        {
+            "state": "Uttar Pradesh",
+            "city":  "Kanpur"
+
+        },
+        {
+            "state": "Uttar Pradesh",
+            "city":  "Lucknow"
+
+        },
+        {
+            "state": "Uttar Pradesh",
+            "city":  "Noida"
+
+        },
+        {
+            "state": "Uttar Pradesh",
+            "city":  "Agra"
+
+        },
+        {
+            "state": "Maharastra",
+            "city":  "Mumbai"
+
+        },
+        {
+            "state": "Maharastra",
+            "city":  "Pune"
+
+        },
+        {
+            "state": "Maharastra",
+            "city":  "Nagpur"
+
+        },
+        {
+            "state": "Maharastra",
+            "city":  "Thane"
+
+        },
+        {
+            "state": "Gujarat",
+            "city":  "Ahmedabad"
+
+        },
+        {
+            "state": "Gujarat",
+            "city":  "Surat"
+
+        },
+        {
+            "state": "Gujarat",
+            "city":  "Rajkot"
+
+        },
+        {
+            "state": "Gujarat",
+            "city":  "Bhavnagar"
+
+        },
+        {
+            "state": "Karnataka",
+            "city":  "Bangalore"
+
+        },
+        {
+            "state": "Karnataka",
+            "city":  "Mysore"
+
+        },
+        {
+            "state": "Karnataka",
+            "city":  "Hubli"
+
+        },
+        {
+            "state": "Karnataka",
+            "city":  "Gulbarga"
+
+        },
+        {
+            "state": "Kerala",
+            "city":  "Thiruvananthapuram"
+
+        },
+        {
+            "state": "Kerala",
+            "city":  "Kozhikode"
+
+        },
+        {
+            "state": "Kerala",
+            "city":  "Kochi"
+
+        },
+        {
+            "state": "Kerala",
+            "city":  "Kollam"
+
+        },
+        {
+            "state": "Delhi",
+            "city":  "Mehrauli"
+
+        },
+        {
+            "state": "Delhi",
+            "city":  "Siri"
+
+        },
+        {
+            "state": "Delhi",
+            "city":  "Tughlakabad"
+
+        },
+        {
+            "state": "Delhi",
+            "city":  "Firozabad"
+
+        },
+        {
+            "state": "Rajasthan",
+            "city":  "Bikaner"
+
+        },
+        {
+            "state": "Rajasthan",
+            "city":  "Alwar"
+
+        },
+        {
+            "state": "Rajasthan",
+            "city":  "Ajmer"
+
+        },
+        {
+            "state": "Rajasthan",
+            "city":  "Jaipur"
+
+        }
+
+    ]
+}

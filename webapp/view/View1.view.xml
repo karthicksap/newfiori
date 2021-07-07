@@ -1,0 +1,61 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" 
+          controllerName="emc.fin.ar.controller.View1">
+
+    <Page title="View 1">
+
+		<headerContent>
+			<Button icon="sap-icon://navigation-right-arrow" tooltip="Next Screen" press="onNext"/>
+		</headerContent>
+		<subHeader>
+			<OverflowToolbar>
+				<SearchField id="idSearch" liveChange="onSearch" search="onSearch" />
+			</OverflowToolbar>
+		</subHeader>
+
+        <List items="{path: '/ProductSet'}" id="idList"
+            mode="SingleSelectMaster"
+            selectionChange="onChange"
+            growing="true"
+            growingThreshold="10">
+
+            <headerToolbar>
+
+                <Toolbar>
+
+                    <ToolbarSpacer />
+
+                    <Button icon="sap-icon://delete" press="onDelete" />
+                    <Button icon="sap-icon://navigation-right-arrow" press="onNav" />
+
+                </Toolbar>
+            
+            </headerToolbar>
+
+            <items>
+
+                <ObjectListItem intro="{CATEGORY}" 
+                                title="{NAME}" 
+                                icon=""
+                                numberUnit="{CURRENCY_CODE}" 
+                                number="{PRICE}" 
+                                >
+
+                <firstStatus>
+                    <ObjectStatus text="{SUPPLIER_ID}" state="Success" />
+                </firstStatus>                
+                                
+                </ObjectListItem>
+            </items>
+        </List>
+
+    <footer>
+        <Toolbar >
+        
+            <ToolbarSpacer />
+            <Button icon="sap-icon://add" text="Add" press="onAdd" />
+        </Toolbar>
+    </footer>
+
+    </Page>
+
+</mvc:View>
