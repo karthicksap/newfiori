@@ -3,7 +3,7 @@
           xmlns:l="sap.ui.layout"
           controllerName="emc.fin.ar.controller.Add">
 
-<Page title="Add View" showNavButton="true" navButtonPress="onPress">
+<Page title="Adding View" showNavButton="true" navButtonPress="onPress">
 
 		<f:SimpleForm id="SimpleFormChange354"
 			editable="true"
