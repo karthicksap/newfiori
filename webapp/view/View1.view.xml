@@ -1,7 +1,7 @@
 <mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" 
           controllerName="emc.fin.ar.controller.View1">
 
-    <Page title="View 1">
+    <Page title="View New 1">
 
 		<headerContent>
 			<Button icon="sap-icon://navigation-right-arrow" tooltip="Next Screen" press="onNext"/>
