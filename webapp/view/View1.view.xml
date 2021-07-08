@@ -53,6 +53,7 @@
         
             <ToolbarSpacer />
             <Button icon="sap-icon://add" text="Add" press="onAdd" />
+			<Button icon="sap-icon://navigation-right-arrow" tooltip="Next Screen" press="onNext"/>
         </Toolbar>
     </footer>
 
