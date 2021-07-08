@@ -1,10 +1,10 @@
 sap.ui.define([
-    'emc/fin/ar/controller/BaseController',
+    'new/fin/ar/controller/BaseController',
     'sap/ui/core/routing/History'
 ], function (BaseController, History) {
     'use strict';
 
-    return BaseController.extend("emc.fin.ar.controller.View3", {
+    return BaseController.extend("new.fin.ar.controller.View3", {
 
         onInit: function () {
 

@@ -1,6 +1,6 @@
 <mvc:View xmlns:f="sap.ui.layout.form" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" 
           xmlns:core="sap.ui.core"
-          controllerName="emc.fin.ar.controller.View2">
+          controllerName="new.fin.ar.controller.View2">
 
     <Page title="View 2"
           showNavButton="true" 
@@ -14,12 +14,12 @@
         <items>
             <IconTabFilter key="MI" text="More Info"  icon="sap-icon://warning">
 
-                <core:Fragment fragmentName="emc.fin.ar.fragments.info" type="XML" />
+                <core:Fragment fragmentName="new.fin.ar.fragments.info" type="XML" />
 
             </IconTabFilter>
             <IconTabFilter key="CR" text="Orders"  icon="sap-icon://product">
 
-                <core:Fragment fragmentName="emc.fin.ar.fragments.carTab" type="XML" />
+                <core:Fragment fragmentName="new.fin.ar.fragments.carTab" type="XML" />
 
             </IconTabFilter>
             <IconTabFilter key="CT" text="State and city"  icon="sap-icon://home">

@@ -1,6 +1,6 @@
 <mvc:View   xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
             xmlns:f="sap.ui.layout.form"
-            controllerName="emc.fin.ar.controller.View4">
+            controllerName="new.fin.ar.controller.View4">
 
 <Page   title="View 4"
         showNavButton="true" 

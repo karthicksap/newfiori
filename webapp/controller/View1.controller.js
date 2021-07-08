@@ -1,12 +1,12 @@
 sap.ui.define([
-    'emc/fin/ar/controller/BaseController',
-    'emc/fin/ar/util/formatter',
+    'new/fin/ar/controller/BaseController',
+    'new/fin/ar/util/formatter',
     'sap/ui/model/Filter',
     'sap/ui/model/FilterOperator'
 ], function (BaseController,Format,Filter,FilterOperator) {
     'use strict';
 
-    return BaseController.extend("emc.fin.ar.controller.View1", {
+    return BaseController.extend("new.fin.ar.controller.View1", {
 
         onInit: function(){
 

@@ -1,7 +1,7 @@
 <mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
           xmlns:f="sap.ui.layout.form"
           xmlns:l="sap.ui.layout"
-          controllerName="emc.fin.ar.controller.Add">
+          controllerName="new.fin.ar.controller.Add">
 
 <Page title="Adding View" showNavButton="true" navButtonPress="onPress">
 

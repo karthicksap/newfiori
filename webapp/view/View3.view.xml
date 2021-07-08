@@ -1,5 +1,5 @@
 <mvc:View   xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" 
-            controllerName="emc.fin.ar.controller.View3" >
+            controllerName="new.fin.ar.controller.View3" >
 
     <Page title="View 3"> 
 

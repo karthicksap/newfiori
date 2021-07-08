@@ -1,7 +1,7 @@
 <mvc:View   height="100%"
             xmlns:mvc="sap.ui.core.mvc" 
             xmlns="sap.m"
-            controllerName="emc.fin.ar.controller.View5">
+            controllerName="new.fin.ar.controller.View5">
 
 <Page>
 

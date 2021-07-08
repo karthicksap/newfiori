@@ -1,9 +1,9 @@
 sap.ui.define([
-    'emc/fin/ar/controller/BaseController',
+    'new/fin/ar/controller/BaseController',
 ], function(BaseController) {
     'use strict';
 
-    return BaseController.extend("emc.fin.ar.controller.View3", {
+    return BaseController.extend("new.fin.ar.controller.View3", {
 
         
 

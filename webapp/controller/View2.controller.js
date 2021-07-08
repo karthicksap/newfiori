@@ -1,5 +1,5 @@
 sap.ui.define([
-    'emc/fin/ar/controller/BaseController',
+    'new/fin/ar/controller/BaseController',
     'sap/m/MessageBox',
     'sap/m/MessageToast',
     'sap/ui/model/Filter',
@@ -8,7 +8,7 @@ sap.ui.define([
 ], function (BaseController,MessageBox,MessageToast,Filter,FilterOperator,Fragment) {
     'use strict';
 
-    return BaseController.extend("emc.fin.ar.controller.View2", {
+    return BaseController.extend("new.fin.ar.controller.View2", {
 
         onInit: function(){
 
@@ -116,7 +116,7 @@ sap.ui.define([
 
             Fragment.load({
 
-                name: "emc.fin.ar.fragments.popup",
+                name: "new.fin.ar.fragments.popup",
                 controller: this,
                 id: "idCars"
 
@@ -143,7 +143,7 @@ sap.ui.define([
 
             Fragment.load({
 
-                name: "emc.fin.ar.fragments.popup",
+                name: "new.fin.ar.fragments.popup",
                 controller: this,
                 id: "idSince"
 

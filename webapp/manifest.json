@@ -15,7 +15,7 @@
     },
     "sap.app": {
         "_version": "1.3.0",
-        "id": "emc.fin.ar",
+        "id": "new.fin.ar",
         "type": "application",
         "applicationVersion": {
             "version": "1.0.0"
@@ -71,7 +71,7 @@
         "rootView": {
 
             "id": "myView",
-            "viewName": "emc.fin.ar.view.App",
+            "viewName": "new.fin.ar.view.App",
             "type": "XML"
 
         },
@@ -80,7 +80,7 @@
 
             "config": {
 
-                "viewPath": "emc.fin.ar.view",
+                "viewPath": "new.fin.ar.view",
                 "viewType": "XML",
                 "routerClass": "sap.m.routing.Router",
                 "controlId": "idAppCon"

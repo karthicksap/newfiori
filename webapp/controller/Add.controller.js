@@ -1,6 +1,6 @@
 sap.ui.define([
-    'emc/fin/ar/controller/BaseController',
-    'emc/fin/ar/util/formatter',
+    'new/fin/ar/controller/BaseController',
+    'new/fin/ar/util/formatter',
     'sap/ui/model/Filter',
     'sap/ui/model/FilterOperator',
     'sap/ui/model/json/JSONModel',
@@ -10,7 +10,7 @@ sap.ui.define([
 ], function (BaseController, Format, Filter, FilterOperator, JSONModel, MessageToast, MessageBox, Fragment) {
     'use strict';
 
-    return BaseController.extend("emc.fin.ar.controller.View1", {
+    return BaseController.extend("new.fin.ar.controller.View1", {
 
         onInit: function () {
 
@@ -102,7 +102,7 @@ sap.ui.define([
 
                 Fragment.load({
 
-                    name: "emc.fin.ar.fragments.popup",
+                    name: "new.fin.ar.fragments.popup",
                     controller: this,
                     id: "idSupp"
 
